@@ -1,4 +1,4 @@
-# Movie-Review-Sentiment-Analysis-Web-App
+# NLP-Fusion
 NLP Fusion is a Web App built using Machine Learning Techniques and Streamlit.<br>
 This Web App takes a user input of a movie review, one similar or different question pair and a message you received and shows you the sentiment of the entered review, whether the question pair is similar or not and whether the message is spam or not respectively.<br>
 This project is applicable mostly on all type of the reviews, not for the movie reviews only and also the message could be a SMS or Email.<br>
